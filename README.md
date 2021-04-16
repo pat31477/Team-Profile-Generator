@@ -8,6 +8,7 @@
   This node.js application builds a Team Profile quickly based off of user inputs.
 
 ## Table of Contents
+  * [Technology Used](#technology)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Links](#links)
@@ -16,7 +17,22 @@
   * [Questions](#questions)
   * [Contributions](#contributions)
   
-  
+
+## Technology Used
+
+  This application was built with the following technology:
+
+  JavaScript
+
+  Node.js
+
+  HTML
+
+  CSS
+
+  BootStrap
+
+  NPM Inquirer  
   
 ## Installation
 
