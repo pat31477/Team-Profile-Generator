@@ -26,7 +26,9 @@
 
   After cloning or copying, run npm install in your terminal at the root to install any requirements. Run node index.js to run start the application. Answer the questions.
 
-  ![FullDemo](./assets/demos/Run_App_Demo.gif?raw=true "FullDemoGif")
+  ![Full Demo](./assets/demos/Run_App_Demo.gif?raw=true "Full Demo Gif")
+
+  ![Generated HTML](./assets/images/Generated_HTML_Screen_Shot.JPG?raw=true "Generated HTML")
 
  ## Links
  
@@ -41,6 +43,10 @@
 ## Tests
 
   Run either npm run test to run the full test suite or jest *test name* to run the test individually.
+
+  ![Run All Test Demo](./assets/demos/NPM_Run_All_Tests.gif?raw=true "Run All Test Demo Gif")
+
+  ![Run Individual Test Demo](./assets/demos/Individual_Tests_Using_Jest.gif?raw=true "Run Individual Test Demo Gif")
 
 ## Questions
 
