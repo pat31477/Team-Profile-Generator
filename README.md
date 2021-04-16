@@ -1,1 +1,53 @@
+
 # Team-Profile-Generator
+
+[![apache-2.0](https://img.shields.io/badge/license-apache--2.0-green?style=plastic)](https://www.apache.org/licenses/LICENSE-2.0)
+
+## Description
+
+  This node.js application builds a Team Profile quickly based off of user inputs.
+
+## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Links](#links)
+  * [License](#license)
+  * [Contributions](#contributions)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  
+  
+## Installation
+
+  Clone the repo or copy the code.
+
+## Usage
+
+  After cloning or copying, run npm install in your terminal at the root to install any requirements. Run node index.js to run start the application. Answer the questions.
+
+ ## Links
+ 
+  * Application URL: (https://pat31477.github.io/Team-Profile-Generator/)
+  * Github Repository URL: (https://github.com/pat31477/Team-Profile-Generator)
+
+## License
+
+  [![apache-2.0](https://img.shields.io/badge/license-apache--2.0-green?style=plastic)](https://www.apache.org/licenses/LICENSE-2.0)
+
+## Contributions
+
+  None
+
+## Tests
+
+  Run either npm run test to run the full test suite or jest *test name* to run the test individually.
+
+## Questions
+
+  Please email me with any question regarding this project @ pat31477@yahoo.com and connect with me on Github and LinkedIn. 
+
+  [![GitHub](https://img.shields.io/badge/My%20GitHub-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/pat31477) 
+  [![LinkedIn](https://img.shields.io/badge/My%20LinkedIn-Click%20Me!-grey?style=plastic&logo=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/patrick-walker-926a35189/)
+
+  
+  
