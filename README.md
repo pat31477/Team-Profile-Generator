@@ -12,9 +12,10 @@
   * [Usage](#usage)
   * [Links](#links)
   * [License](#license)
-  * [Contributions](#contributions)
   * [Tests](#tests)
   * [Questions](#questions)
+  * [Contributions](#contributions)
+  
   
   
 ## Installation
@@ -25,6 +26,8 @@
 
   After cloning or copying, run npm install in your terminal at the root to install any requirements. Run node index.js to run start the application. Answer the questions.
 
+  ![FullDemo](./assets/demos/Run_App_Demo.gif?raw=true "FullDemoGif")
+
  ## Links
  
   * Application URL: (https://pat31477.github.io/Team-Profile-Generator/)
@@ -34,9 +37,6 @@
 
   [![apache-2.0](https://img.shields.io/badge/license-apache--2.0-green?style=plastic)](https://www.apache.org/licenses/LICENSE-2.0)
 
-## Contributions
-
-  None
 
 ## Tests
 
@@ -48,6 +48,10 @@
 
   [![GitHub](https://img.shields.io/badge/My%20GitHub-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/pat31477) 
   [![LinkedIn](https://img.shields.io/badge/My%20LinkedIn-Click%20Me!-grey?style=plastic&logo=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/patrick-walker-926a35189/)
+
+  ## Contributions
+
+  None
 
   
   
