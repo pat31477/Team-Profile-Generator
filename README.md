@@ -8,7 +8,7 @@
   This node.js application builds a Team Profile quickly based off of user inputs.
 
 ## Table of Contents
-  * [Technology Used](#technology)
+  * [Technology](#technology)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Links](#links)
@@ -18,7 +18,7 @@
   * [Contributions](#contributions)
   
 
-## Technology Used
+## Technology
 
   This application was built with the following technology:
 
