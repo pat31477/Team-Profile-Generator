@@ -45,11 +45,14 @@
   ![Full Demo](./assets/demos/Run_App_Demo.gif?raw=true "Full Demo Gif")
 
   ![Generated HTML](./assets/images/Generated_HTML_Screen_Shot.JPG?raw=true "Generated HTML")
+  
 
  ## Links
  
   * Application URL: (https://pat31477.github.io/Team-Profile-Generator/)
   * Github Repository URL: (https://github.com/pat31477/Team-Profile-Generator)
+  * Generated HTML URL: ((https://pat31477.github.io/Team-Profile-Generator/generated-html/Best%20Team%20Ever!.html))
+  
 
 ## License
 
