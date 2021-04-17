@@ -38,7 +38,7 @@
 
   Clone the repo or copy the code.
 
-## Usag
+## Usage
 
   After cloning or copying, run npm install in your terminal at the root to install any requirements. Run node index.js to run start the application. Answer the questions.
 
